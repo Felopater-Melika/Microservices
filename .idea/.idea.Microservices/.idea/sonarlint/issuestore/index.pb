@@ -9,8 +9,6 @@ k
 ;PlatformService/SyncDataServices/Http/ICommandDataClient.cs,9\0\90316e2dd8a2f6b19aec76187965f66c0fc55165
 n
 >PlatformService/SyncDataServices/Http/HttpCommandDataClient.cs,c\e\cecb5190de7cb4ed9f39c1acbfbcfe68b98a1400
-V
-&CommandsService/CommandsService.csproj,3\0\30383a02d9e37732936259ca4386fd3f5b7b339a
 I
 K8S/platforms-np-srv.yaml,7\a\7aa2a8274e704124cc50bba2515cab8d1e5c5b10
 P
@@ -41,7 +39,3 @@ B
 K8S/local-pvc.yaml,1\c\1cde005bb0db0241729668988bb3c89daf7c9713
 F
 K8S/commands-depl.yaml,4\c\4c3edb9ada3bc68f67e732a301d70c7373451430
-V
-&PlatformService/PlatformService.csproj,4\b\4b27d0e98abc2d3b4f54f3670f5e2808e95b133d
-T
-$PlatformService/Data/PlatformRepo.cs,5\c\5cef1c21f9c0dd650b88b66770f37cf396a7bdd4

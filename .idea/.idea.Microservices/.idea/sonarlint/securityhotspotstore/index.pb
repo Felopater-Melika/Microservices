@@ -11,8 +11,6 @@ b
 2CommandsService/Controllers/PlatformsController.cs,3\1\31a98802c3ab2f7e5d2bf6127436f39432caa3d3
 n
 >PlatformService/SyncDataServices/Http/HttpCommandDataClient.cs,c\e\cecb5190de7cb4ed9f39c1acbfbcfe68b98a1400
-V
-&CommandsService/CommandsService.csproj,3\0\30383a02d9e37732936259ca4386fd3f5b7b339a
 G
 K8S/platforms-depl.yaml,9\f\9f0a8dd8fe16474ea1aafd0e856f92a2c6977344
 I
@@ -41,7 +39,3 @@ F
 K8S/commands-depl.yaml,4\c\4c3edb9ada3bc68f67e732a301d70c7373451430
 H
 K8S/mssql-plat-depl.yaml,3\a\3a42db8269113c7097760110ffe5de50c9d92afc
-V
-&PlatformService/PlatformService.csproj,4\b\4b27d0e98abc2d3b4f54f3670f5e2808e95b133d
-T
-$PlatformService/Data/PlatformRepo.cs,5\c\5cef1c21f9c0dd650b88b66770f37cf396a7bdd4
