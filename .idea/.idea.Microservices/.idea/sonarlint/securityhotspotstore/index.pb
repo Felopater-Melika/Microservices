@@ -1,9 +1,47 @@
 
-A
-Microservices.sln,b\3\b3ec609b071eaef1f4778aaeecbd2e5b27966762
 \
 ,PlatformService/Profiles/PlatformsProfile.cs,d\5\d5024d723bc12545a2660cfac67c001f0f5c4365
 =
 .dockerignore,0\5\05a721ebe3ba0754116825ed1359ff1785f4bbac
 J
 CommandsService/Program.cs,8\1\81b6090d1bf442c7d18e9fc65c2bcf66a5dc8cc5
+k
+;PlatformService/SyncDataServices/Http/ICommandDataClient.cs,9\0\90316e2dd8a2f6b19aec76187965f66c0fc55165
+b
+2CommandsService/Controllers/PlatformsController.cs,3\1\31a98802c3ab2f7e5d2bf6127436f39432caa3d3
+n
+>PlatformService/SyncDataServices/Http/HttpCommandDataClient.cs,c\e\cecb5190de7cb4ed9f39c1acbfbcfe68b98a1400
+V
+&CommandsService/CommandsService.csproj,3\0\30383a02d9e37732936259ca4386fd3f5b7b339a
+G
+K8S/platforms-depl.yaml,9\f\9f0a8dd8fe16474ea1aafd0e856f92a2c6977344
+I
+K8S/platforms-np-srv.yaml,7\a\7aa2a8274e704124cc50bba2515cab8d1e5c5b10
+P
+ CommandsService/appsettings.json,2\e\2e3006fd8714afe15d29f8a9ba414ec043b52a0e
+\
+,CommandsService/appsettings.Development.json,1\a\1a9fa76cb08166e21a74693f3af07e94824bd6ed
+P
+ PlatformService/appsettings.json,d\9\d9debf31916ea186c73c28c444e8dbacfc00874b
+J
+CommandsService/Dockerfile,9\b\9bb2b08cf6aa5903b0bd2a333035a2d6f3a4cbc4
+W
+'PlatformService/Dtos/PlatformReadDto.cs,3\b\3bb2014e14401f0b833382deb5a0d8ad7bb83abb
+Y
+)PlatformService/Dtos/PlatformCreateDto.cs,f\6\f655c5d0c743c10f1d95db427f799212f3ce14ae
+b
+2PlatformService/Controllers/PlatformsController.cs,d\a\da7c66749aa729a0a3fd8422559bf95cf6c84f9a
+A
+Microservices.sln,b\3\b3ec609b071eaef1f4778aaeecbd2e5b27966762
+D
+K8S/ingress-srv.yaml,8\8\8893d54af1a50422c70443121379bf54df73d81c
+B
+K8S/local-pvc.yaml,1\c\1cde005bb0db0241729668988bb3c89daf7c9713
+F
+K8S/commands-depl.yaml,4\c\4c3edb9ada3bc68f67e732a301d70c7373451430
+H
+K8S/mssql-plat-depl.yaml,3\a\3a42db8269113c7097760110ffe5de50c9d92afc
+V
+&PlatformService/PlatformService.csproj,4\b\4b27d0e98abc2d3b4f54f3670f5e2808e95b133d
+T
+$PlatformService/Data/PlatformRepo.cs,5\c\5cef1c21f9c0dd650b88b66770f37cf396a7bdd4
