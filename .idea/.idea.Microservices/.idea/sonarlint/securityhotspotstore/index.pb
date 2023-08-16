@@ -1,6 +1,4 @@
 
-\
-,PlatformService/Profiles/PlatformsProfile.cs,d\5\d5024d723bc12545a2660cfac67c001f0f5c4365
 =
 .dockerignore,0\5\05a721ebe3ba0754116825ed1359ff1785f4bbac
 k
@@ -23,8 +21,6 @@ W
 'PlatformService/Dtos/PlatformReadDto.cs,3\b\3bb2014e14401f0b833382deb5a0d8ad7bb83abb
 Y
 )PlatformService/Dtos/PlatformCreateDto.cs,f\6\f655c5d0c743c10f1d95db427f799212f3ce14ae
-b
-2PlatformService/Controllers/PlatformsController.cs,d\a\da7c66749aa729a0a3fd8422559bf95cf6c84f9a
 D
 K8S/ingress-srv.yaml,8\8\8893d54af1a50422c70443121379bf54df73d81c
 B
@@ -33,22 +29,12 @@ F
 K8S/commands-depl.yaml,4\c\4c3edb9ada3bc68f67e732a301d70c7373451430
 H
 K8S/mssql-plat-depl.yaml,3\a\3a42db8269113c7097760110ffe5de50c9d92afc
-\
-,PlatformService/appsettings.Development.json,2\8\28f34bb8009e3c3fbb095ab2ac63b59ffe55b387
 N
 PlatformService/Data/PrepDb.cs,e\6\e6e310fa9cb6ab9fe62451d1526288fb713bd75a
-[
-+PlatformService/appsettings.Production.json,f\1\f13e1fadc7ac0daed8058a660c796b3d07ea6cf5
 J
 PlatformService/Dockerfile,1\f\1f13f726ee1b5f327860ef6891ec67d71e92ee4f
-V
-&PlatformService/PlatformService.csproj,4\b\4b27d0e98abc2d3b4f54f3670f5e2808e95b133d
 T
 $PlatformService/Data/PlatformRepo.cs,5\c\5cef1c21f9c0dd650b88b66770f37cf396a7bdd4
-S
-#CommandsService/Data/CommandRepo.cs,1\1\11907b36b1c40f5716d9eef55d8fee1845ccf2c8
-T
-$CommandsService/Data/ICommandRepo.cs,9\a\9a6e53ca66dd5f0f6e1eeba7175b133bc0def9d9
 \
 ,CommandsService/Dtos/PlatformPublishedDto.cs,7\a\7a9bc7a69340ec31052646cc927bfacb33a3c6f6
 T
@@ -57,8 +43,6 @@ W
 'CommandsService/Dtos/GenericEventDto.cs,3\1\31e9bd753aac8b40e8ac80de7b92fcdb341ca90e
 T
 $CommandsService/Data/AppDbContext.cs,b\2\b230c2babff22f81144638c332421c4dbeb85862
-J
-PlatformService/Program.cs,5\3\536ad67cedd4762117fcd45c7078df51dd6bf038
 X
 (CommandsService/Dtos/CommandCreateDto.cs,c\a\ca31956b40cf5e233bc65f0dd93fec96780307a7
 V
@@ -71,13 +55,7 @@ Q
 !CommandsService/Models/Command.cs,8\9\89ddabc2b923c4acf0c9ea8637d870b5020d4a75
 R
 "CommandsService/Models/Platform.cs,e\b\eb8c0e94d666382d97f072ef2e3c6a6af386991e
-b
-2CommandsService/Controllers/PlatformsController.cs,3\1\31a98802c3ab2f7e5d2bf6127436f39432caa3d3
-a
-1CommandsService/Controllers/CommandsController.cs,1\4\143d5d63775017fbec87c20417a5f78b30c802b1
 J
 CommandsService/Program.cs,8\1\81b6090d1bf442c7d18e9fc65c2bcf66a5dc8cc5
-V
-&CommandsService/CommandsService.csproj,3\0\30383a02d9e37732936259ca4386fd3f5b7b339a
 A
 Microservices.sln,b\3\b3ec609b071eaef1f4778aaeecbd2e5b27966762
