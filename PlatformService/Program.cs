@@ -19,7 +19,7 @@ if (env.IsProduction())
 {
     Console.WriteLine($"--> Using SQL Server DB");
     builder.Services.AddDbContext<AppDbContext>(
-        opt => opt.UseSqlServer(connectionString)
+        opt => opt.UseSqlServer(configuration.GetConnectionString("PlatformsConn"))
     );
 }
 else
