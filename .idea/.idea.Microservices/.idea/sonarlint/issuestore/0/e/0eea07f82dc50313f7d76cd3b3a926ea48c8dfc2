@@ -1,0 +1,4 @@
+
+csharpsquid:S2953A"[Either implement 'IDisposable.Dispose', or totally rename this method to prevent confusion.(€›Á8µ†íÿŸ1
+csharpsquid:S1450
+"]Remove the field '_configuration' and declare it as a local variable in the relevant methods.(ˆ›–±8—Î»ÿŸ1
